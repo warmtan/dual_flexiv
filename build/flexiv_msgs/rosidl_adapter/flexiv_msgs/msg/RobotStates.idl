@@ -1,0 +1,46 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from flexiv_msgs/msg/RobotStates.msg
+// generated code does not contain a copyright notice
+
+#include "flexiv_msgs/msg/CartesianState.idl"
+#include "flexiv_msgs/msg/CartesianVelocity.idl"
+#include "flexiv_msgs/msg/ExternalForce.idl"
+
+module flexiv_msgs {
+  module msg {
+    typedef double double__7[7];
+    struct RobotStates {
+      double__7 q;
+
+      double__7 theta;
+
+      double__7 dq;
+
+      double__7 dtheta;
+
+      double__7 tau;
+
+      double__7 tau_des;
+
+      double__7 tau_dot;
+
+      double__7 tau_ext;
+
+      flexiv_msgs::msg::CartesianState tcp_pose;
+
+      flexiv_msgs::msg::CartesianState tcp_pose_des;
+
+      flexiv_msgs::msg::CartesianVelocity tcp_vel;
+
+      flexiv_msgs::msg::CartesianState cam_pose;
+
+      flexiv_msgs::msg::CartesianState flange_pose;
+
+      flexiv_msgs::msg::CartesianState end_link_pose;
+
+      flexiv_msgs::msg::ExternalForce ext_force_tcp_frame;
+
+      flexiv_msgs::msg::ExternalForce ext_force_base_frame;
+    };
+  };
+};

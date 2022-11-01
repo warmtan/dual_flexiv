@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from flexiv_msgs/msg/CartesianState.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+#include "geometry_msgs/msg/Quaternion.idl"
+
+module flexiv_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      " Arm cartesian state, calculated from joint state and arm kinematics")
+    struct CartesianState {
+      @verbatim (language="comment", text=
+        " position vector (3x1) of the TCP pose in base frame [X, Y, Z]")
+      geometry_msgs::msg::Point position;
+
+      @verbatim (language="comment", text=
+        " quaternions (4x1) of the TCP pose in base frame [x, y, z, w]")
+      geometry_msgs::msg::Quaternion orientation;
+    };
+  };
+};

@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from flexiv_msgs/msg/Mode.msg
+// generated code does not contain a copyright notice
+
+
+module flexiv_msgs {
+  module msg {
+    module Mode_Constants {
+      const int8 MODE_UNKNOWN = -1;
+      const uint8 MODE_IDLE = 0;
+      const uint8 MODE_JOINT_TORQUE = 1;
+      const uint8 MODE_JOINT_POSITION = 2;
+      const uint8 MODE_JOINT_POSITION_NRT = 3;
+      const uint8 MODE_PLAN_EXECUTION = 4;
+      const uint8 MODE_PRIMITIVE_EXECUTION = 5;
+      const uint8 MODE_CARTESIAN_IMPEDANCE = 6;
+      const uint8 MODE_CARTESIAN_IMPEDANCE_NRT = 7;
+    };
+    struct Mode {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

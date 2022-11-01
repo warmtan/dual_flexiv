@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/robotflow/dual_flexiv/build/flexiv_msgs/rosidl_generator_py/flexiv_msgs/libflexiv_msgs__python.so" "TARGETS" "flexiv_msgs__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

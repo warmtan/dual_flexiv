@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from flexiv_msgs/msg/CartesianVelocity.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+#include "geometry_msgs/msg/Quaternion.idl"
+
+module flexiv_msgs {
+  module msg {
+    struct CartesianVelocity {
+      @verbatim (language="comment", text=
+        " (3x1) linear velocity")
+      geometry_msgs::msg::Point linear;
+
+      @verbatim (language="comment", text=
+        " (3x1) angular velocity")
+      geometry_msgs::msg::Quaternion angular;
+    };
+  };
+};

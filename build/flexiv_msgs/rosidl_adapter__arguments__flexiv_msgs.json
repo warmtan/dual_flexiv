@@ -1,0 +1,11 @@
+{
+  "package_name": "flexiv_msgs",
+  "non_idl_tuples": [
+    "/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_msgs:msg/CartesianState.msg",
+    "/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_msgs:msg/CartesianVelocity.msg",
+    "/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_msgs:msg/ExternalForce.msg",
+    "/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_msgs:msg/JointPosVel.msg",
+    "/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_msgs:msg/Mode.msg",
+    "/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_msgs:msg/RobotStates.msg"
+  ]
+}

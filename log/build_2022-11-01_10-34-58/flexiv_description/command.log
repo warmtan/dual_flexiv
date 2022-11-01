@@ -1,0 +1,1 @@
+Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robotflow/dual_flexiv/install/flexiv_description
