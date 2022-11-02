@@ -1,0 +1,165 @@
+[0.033s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/flexiv_msgs -- -j8 -l8
+[0.263s] [  1%] Built target flexiv_msgs__cpp
+[0.264s] [ 12%] Built target flexiv_msgs__rosidl_generator_c
+[0.264s] [ 23%] Built target flexiv_msgs__rosidl_typesupport_cpp
+[0.264s] [ 35%] Built target flexiv_msgs__rosidl_typesupport_introspection_cpp
+[0.266s] [ 46%] Built target flexiv_msgs__rosidl_typesupport_fastrtps_cpp
+[0.266s] [ 57%] Built target flexiv_msgs__rosidl_typesupport_c
+[0.267s] [ 69%] Built target flexiv_msgs__rosidl_typesupport_introspection_c
+[0.267s] [ 80%] Built target flexiv_msgs__rosidl_typesupport_fastrtps_c
+[0.268s] [ 80%] Built target flexiv_msgs
+[0.269s] [ 81%] Built target flexiv_msgs__py
+[0.270s] [ 91%] Built target flexiv_msgs__python
+[0.271s] [ 94%] Built target flexiv_msgs__rosidl_typesupport_c__pyext
+[0.272s] [ 97%] Built target flexiv_msgs__rosidl_typesupport_introspection_c__pyext
+[0.272s] [100%] Built target flexiv_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.275s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/flexiv_msgs -- -j8 -l8
+[0.370s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/flexiv_msgs
+[0.381s] -- Install configuration: ""
+[0.382s] -- Execute custom install script
+[0.382s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/ament_index/resource_index/rosidl_interfaces/flexiv_msgs
+[0.384s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/cartesian_state.h
+[0.385s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/cartesian_velocity.h
+[0.385s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__functions.h
+[0.385s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__struct.h
+[0.385s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__type_support.h
+[0.386s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__functions.h
+[0.387s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__struct.h
+[0.387s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__type_support.h
+[0.387s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__functions.h
+[0.387s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__struct.h
+[0.388s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__type_support.h
+[0.388s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__functions.h
+[0.388s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__struct.h
+[0.388s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__type_support.h
+[0.389s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__functions.h
+[0.391s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__struct.h
+[0.393s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__type_support.h
+[0.393s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__functions.h
+[0.393s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__struct.h
+[0.393s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__type_support.h
+[0.394s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/external_force.h
+[0.394s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/joint_pos_vel.h
+[0.394s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/mode.h
+[0.394s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/robot_states.h
+[0.395s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.395s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/library_path.sh
+[0.395s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/library_path.dsv
+[0.396s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__rosidl_typesupport_fastrtps_c.h
+[0.396s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__rosidl_typesupport_fastrtps_c.h
+[0.398s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__rosidl_typesupport_fastrtps_c.h
+[0.398s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__rosidl_typesupport_fastrtps_c.h
+[0.398s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__rosidl_typesupport_fastrtps_c.h
+[0.398s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__rosidl_typesupport_fastrtps_c.h
+[0.399s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.399s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_typesupport_fastrtps_c.so
+[0.399s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.399s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__rosidl_typesupport_fastrtps_cpp.hpp
+[0.399s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__rosidl_typesupport_fastrtps_cpp.hpp
+[0.400s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__rosidl_typesupport_fastrtps_cpp.hpp
+[0.400s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__rosidl_typesupport_fastrtps_cpp.hpp
+[0.400s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__rosidl_typesupport_fastrtps_cpp.hpp
+[0.402s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.402s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.402s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__rosidl_typesupport_introspection_c.h
+[0.403s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__rosidl_typesupport_introspection_c.h
+[0.403s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__rosidl_typesupport_introspection_c.h
+[0.403s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__rosidl_typesupport_introspection_c.h
+[0.403s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__rosidl_typesupport_introspection_c.h
+[0.404s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__rosidl_typesupport_introspection_c.h
+[0.404s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.404s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/cartesian_state.hpp
+[0.404s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/cartesian_velocity.hpp
+[0.405s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__builder.hpp
+[0.405s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__struct.hpp
+[0.405s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__traits.hpp
+[0.405s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__builder.hpp
+[0.407s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__struct.hpp
+[0.408s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__traits.hpp
+[0.408s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__builder.hpp
+[0.408s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__struct.hpp
+[0.409s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__traits.hpp
+[0.409s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__builder.hpp
+[0.409s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__struct.hpp
+[0.409s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__traits.hpp
+[0.409s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__builder.hpp
+[0.409s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__struct.hpp
+[0.410s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__traits.hpp
+[0.410s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__builder.hpp
+[0.410s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__struct.hpp
+[0.410s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__traits.hpp
+[0.410s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/external_force.hpp
+[0.410s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/joint_pos_vel.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/mode.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/robot_states.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_state__rosidl_typesupport_introspection_cpp.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/cartesian_velocity__rosidl_typesupport_introspection_cpp.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/external_force__rosidl_typesupport_introspection_cpp.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/joint_pos_vel__rosidl_typesupport_introspection_cpp.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/mode__rosidl_typesupport_introspection_cpp.hpp
+[0.411s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/include/flexiv_msgs/msg/detail/robot_states__rosidl_typesupport_introspection_cpp.hpp
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/pythonpath.sh
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/pythonpath.dsv
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/__init__.py
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/__init__.py
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/_cartesian_state.py
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/_cartesian_velocity.py
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/_external_force.py
+[0.412s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/_joint_pos_vel.py
+[0.413s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/_mode.py
+[0.414s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/msg/_robot_states.py
+[0.416s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/flexiv_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[0.416s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/flexiv_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[0.417s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/python3.8/site-packages/flexiv_msgs/flexiv_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[0.418s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__python.so
+[0.418s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/CartesianState.idl
+[0.418s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/CartesianVelocity.idl
+[0.419s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/ExternalForce.idl
+[0.419s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/JointPosVel.idl
+[0.419s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/Mode.idl
+[0.421s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/RobotStates.idl
+[0.421s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/CartesianState.msg
+[0.421s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/CartesianVelocity.msg
+[0.422s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/ExternalForce.msg
+[0.422s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/JointPosVel.msg
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/Mode.msg
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/msg/RobotStates.msg
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/ament_index/resource_index/package_run_dependencies/flexiv_msgs
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/ament_index/resource_index/parent_prefix_path/flexiv_msgs
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/ament_prefix_path.sh
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/ament_prefix_path.dsv
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/path.sh
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/environment/path.dsv
+[0.423s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/local_setup.bash
+[0.424s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/local_setup.sh
+[0.424s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/local_setup.zsh
+[0.424s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/local_setup.dsv
+[0.424s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/package.dsv
+[0.425s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/ament_index/resource_index/packages/flexiv_msgs
+[0.425s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/rosidl_cmake-extras.cmake
+[0.425s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.425s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.426s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.426s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.426s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.426s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.426s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgsConfig.cmake
+[0.426s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgsConfig-version.cmake
+[0.427s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/package.xml
+[0.427s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_generator_c.so
+[0.427s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_typesupport_introspection_c.so
+[0.428s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_typesupport_c.so
+[0.428s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_typesupport_introspection_cpp.so
+[0.428s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/lib/libflexiv_msgs__rosidl_typesupport_cpp.so
+[0.460s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_generator_cExport.cmake
+[0.460s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.460s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_cExport.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_generator_cppExport.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_cppExport.cmake
+[0.461s] -- Up-to-date: /home/robotflow/dual_flexiv/install/flexiv_msgs/share/flexiv_msgs/cmake/flexiv_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.468s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/flexiv_msgs

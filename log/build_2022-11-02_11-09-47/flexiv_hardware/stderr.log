@@ -1,0 +1,7 @@
+[01m[K/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_hardware/src/flexiv_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type flexiv_hardware::FlexivHardwareInterface::perform_command_mode_switch(const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::__cxx11::basic_string<char> >&)[m[K’:
+[01m[K/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_hardware/src/flexiv_hardware_interface.cpp:395:37:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstart_interfaces[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  395 |     [01;35m[Kconst std::vector<std::string>& start_interfaces[m[K,
+      |     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_hardware/src/flexiv_hardware_interface.cpp:396:37:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstop_interfaces[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  396 |     [01;35m[Kconst std::vector<std::string>& stop_interfaces[m[K)
+      |     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K

@@ -1,0 +1,38 @@
+[35m[1mScanning dependencies of target flexiv_hardware[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/flexiv_hardware.dir/src/flexiv_hardware_interface.cpp.o[0m
+[01m[K/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_hardware/src/flexiv_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type flexiv_hardware::FlexivHardwareInterface::perform_command_mode_switch(const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::__cxx11::basic_string<char> >&)[m[K’:
+[01m[K/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_hardware/src/flexiv_hardware_interface.cpp:395:37:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstart_interfaces[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  395 |     [01;35m[Kconst std::vector<std::string>& start_interfaces[m[K,
+      |     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_hardware/src/flexiv_hardware_interface.cpp:396:37:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstop_interfaces[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  396 |     [01;35m[Kconst std::vector<std::string>& stop_interfaces[m[K)
+      |     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library libflexiv_hardware.so[0m
+[100%] Built target flexiv_hardware
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware//flexiv_hardware_interface_plugin.xml
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/lib/libflexiv_hardware.so
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/include/flexiv_hardware/flexiv_hardware_interface.hpp
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/include/flexiv_hardware/visibility_control.h
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/library_path.sh
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/library_path.dsv
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/package_run_dependencies/flexiv_hardware
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/parent_prefix_path/flexiv_hardware
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/ament_prefix_path.sh
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/ament_prefix_path.dsv
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/path.sh
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/path.dsv
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.bash
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.sh
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.zsh
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.dsv
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/package.dsv
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/packages/flexiv_hardware
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/flexiv_hardware
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/flexiv_hardwareConfig.cmake
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/flexiv_hardwareConfig-version.cmake
+-- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/package.xml

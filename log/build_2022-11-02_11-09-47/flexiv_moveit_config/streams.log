@@ -1,0 +1,51 @@
+[0.048s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_moveit_config': AMENT_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:/opt/ros/foxy /usr/bin/cmake /home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robotflow/dual_flexiv/install/flexiv_moveit_config
+[0.148s] -- The C compiler identification is GNU 9.4.0
+[0.232s] -- The CXX compiler identification is GNU 9.4.0
+[0.238s] -- Check for working C compiler: /usr/bin/cc
+[0.414s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.415s] -- Detecting C compiler ABI info
+[0.646s] -- Detecting C compiler ABI info - done
+[0.664s] -- Detecting C compile features
+[0.664s] -- Detecting C compile features - done
+[0.668s] -- Check for working CXX compiler: /usr/bin/c++
+[0.830s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.832s] -- Detecting CXX compiler ABI info
+[0.981s] -- Detecting CXX compiler ABI info - done
+[1.006s] -- Detecting CXX compile features
+[1.006s] -- Detecting CXX compile features - done
+[1.009s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.065s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.065s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.343s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.452s] -- Configuring done
+[1.454s] -- Generating done
+[1.455s] -- Build files have been written to: /home/robotflow/dual_flexiv/build/flexiv_moveit_config
+[1.459s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:/opt/ros/foxy /usr/bin/cmake /home/robotflow/dual_flexiv/src/flexiv_ros2/flexiv_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robotflow/dual_flexiv/install/flexiv_moveit_config
+[1.462s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_moveit_config': AMENT_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/flexiv_moveit_config -- -j8 -l8
+[1.495s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/flexiv_moveit_config -- -j8 -l8
+[1.514s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_moveit_config': AMENT_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/flexiv_moveit_config
+[1.521s] -- Install configuration: ""
+[1.522s] -- Execute custom install script
+[1.522s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/config/joint_limits.yaml
+[1.530s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/config/kinematics.yaml
+[1.538s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/config/moveit_controllers.yaml
+[1.545s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/config/ompl_planning.yaml
+[1.553s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/srdf/rizon.srdf.xacro
+[1.562s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/srdf/rizon_macro.srdf.xacro
+[1.570s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/rviz/moveit.rviz
+[1.579s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/ament_index/resource_index/package_run_dependencies/flexiv_moveit_config
+[1.590s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/ament_index/resource_index/parent_prefix_path/flexiv_moveit_config
+[1.599s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/environment/ament_prefix_path.sh
+[1.607s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/environment/ament_prefix_path.dsv
+[1.614s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/environment/path.sh
+[1.622s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/environment/path.dsv
+[1.630s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/local_setup.bash
+[1.638s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/local_setup.sh
+[1.648s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/local_setup.zsh
+[1.656s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/local_setup.dsv
+[1.666s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/package.dsv
+[1.675s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/ament_index/resource_index/packages/flexiv_moveit_config
+[1.684s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/cmake/flexiv_moveit_configConfig.cmake
+[1.696s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/cmake/flexiv_moveit_configConfig-version.cmake
+[1.709s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/package.xml
+[1.722s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robotflow/dual_flexiv/install/flexiv_description:/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/flexiv_moveit_config

@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+# EASY-INSTALL-ENTRY-SCRIPT: 'flexiv-test-nodes','console_scripts','publisher_joint_trajectory_controller'
+__requires__ = 'flexiv-test-nodes'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('flexiv-test-nodes', 'console_scripts', 'publisher_joint_trajectory_controller')()
+    )

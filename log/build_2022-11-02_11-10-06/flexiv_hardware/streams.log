@@ -1,0 +1,32 @@
+[0.031s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_hardware': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/flexiv_hardware -- -j8 -l8
+[0.268s] [100%] Built target flexiv_hardware
+[0.280s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_hardware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/flexiv_hardware -- -j8 -l8
+[0.307s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_hardware': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/flexiv_hardware
+[0.317s] -- Install configuration: ""
+[0.317s] -- Execute custom install script
+[0.318s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware//flexiv_hardware_interface_plugin.xml
+[0.318s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/lib/libflexiv_hardware.so
+[0.319s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/include/flexiv_hardware/flexiv_hardware_interface.hpp
+[0.319s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/include/flexiv_hardware/visibility_control.h
+[0.320s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/library_path.sh
+[0.321s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/library_path.dsv
+[0.321s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/package_run_dependencies/flexiv_hardware
+[0.321s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/parent_prefix_path/flexiv_hardware
+[0.322s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/ament_prefix_path.sh
+[0.322s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/ament_prefix_path.dsv
+[0.322s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/path.sh
+[0.323s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/environment/path.dsv
+[0.323s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.bash
+[0.324s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.sh
+[0.324s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.zsh
+[0.325s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/local_setup.dsv
+[0.325s] -- Symlinking: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/package.dsv
+[0.334s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/packages/flexiv_hardware
+[0.334s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/flexiv_hardware
+[0.335s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.335s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/ament_cmake_export_libraries-extras.cmake
+[0.335s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/flexiv_hardwareConfig.cmake
+[0.336s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/cmake/flexiv_hardwareConfig-version.cmake
+[0.336s] -- Up-to-date symlink: /home/robotflow/dual_flexiv/install/flexiv_hardware/share/flexiv_hardware/package.xml
+[0.338s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_hardware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/flexiv_hardware

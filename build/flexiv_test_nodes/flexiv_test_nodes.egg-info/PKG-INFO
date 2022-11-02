@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: flexiv-test-nodes
+Version: 0.0.1
+Summary: Demo nodes for testing flexiv_ros2.
+Home-page: UNKNOWN
+Author: Mun Seng Phoon
+Author-email: munseng.phoon@flexiv.com
+Maintainer: Mun Seng Phoon
+Maintainer-email: munseng.phoon@flexiv.com
+License: Apache License, Version 2.0
+Description: Demo nodes for for testing flexiv_ros2.
+Keywords: ROS
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
