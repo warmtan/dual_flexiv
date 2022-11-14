@@ -1,0 +1,20 @@
+[1.295s] Invoking command in '/home/robotflow/dual_flexiv/build/flexiv_test_nodes': PYTHONPATH=/home/robotflow/dual_flexiv/install/flexiv_test_nodes/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robotflow/dual_flexiv/install/flexiv_test_nodes --editable --build-directory /home/robotflow/dual_flexiv/build/flexiv_test_nodes/build --no-deps install_data --install-dir /home/robotflow/dual_flexiv/install/flexiv_test_nodes
+[1.800s] running develop
+[2.114s] running egg_info
+[2.114s] writing flexiv_test_nodes.egg-info/PKG-INFO
+[2.114s] writing dependency_links to flexiv_test_nodes.egg-info/dependency_links.txt
+[2.115s] writing entry points to flexiv_test_nodes.egg-info/entry_points.txt
+[2.115s] writing requirements to flexiv_test_nodes.egg-info/requires.txt
+[2.115s] writing top-level names to flexiv_test_nodes.egg-info/top_level.txt
+[2.190s] reading manifest file 'flexiv_test_nodes.egg-info/SOURCES.txt'
+[2.191s] writing manifest file 'flexiv_test_nodes.egg-info/SOURCES.txt'
+[2.266s] running build_ext
+[2.267s] Creating /home/robotflow/dual_flexiv/install/flexiv_test_nodes/lib/python3.8/site-packages/flexiv-test-nodes.egg-link (link to .)
+[2.269s] Installing publisher_joint_trajectory_controller script to /home/robotflow/dual_flexiv/install/flexiv_test_nodes/lib/flexiv_test_nodes
+[2.270s] Installing sine_sweep_impedance_controller script to /home/robotflow/dual_flexiv/install/flexiv_test_nodes/lib/flexiv_test_nodes
+[2.270s] Installing sine_sweep_position_controller script to /home/robotflow/dual_flexiv/install/flexiv_test_nodes/lib/flexiv_test_nodes
+[2.270s] 
+[2.271s] Installed /home/robotflow/dual_flexiv/build/flexiv_test_nodes
+[2.271s] running install_data
+[2.271s] creating /home/robotflow/dual_flexiv/install/flexiv_test_nodes/share/flexiv_test_nodes/configs
+[2.330s] Invoked command in '/home/robotflow/dual_flexiv/build/flexiv_test_nodes' returned '0': PYTHONPATH=/home/robotflow/dual_flexiv/install/flexiv_test_nodes/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robotflow/dual_flexiv/install/flexiv_test_nodes --editable --build-directory /home/robotflow/dual_flexiv/build/flexiv_test_nodes/build --no-deps install_data --install-dir /home/robotflow/dual_flexiv/install/flexiv_test_nodes

@@ -1,0 +1,65 @@
+[0.411s] Invoking command in '/home/robotflow/dual_flexiv/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robotflow/dual_flexiv/install/flexiv_test_nodes:/opt/ros/foxy /usr/bin/cmake /home/robotflow/dual_flexiv/src/urdf_tutorial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robotflow/dual_flexiv/install/urdf_tutorial
+[0.543s] -- The C compiler identification is GNU 9.4.0
+[0.666s] -- The CXX compiler identification is GNU 9.4.0
+[0.675s] -- Check for working C compiler: /usr/bin/cc
+[0.816s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.817s] -- Detecting C compiler ABI info
+[0.940s] -- Detecting C compiler ABI info - done
+[0.957s] -- Detecting C compile features
+[0.958s] -- Detecting C compile features - done
+[0.963s] -- Check for working CXX compiler: /usr/bin/c++
+[1.103s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.105s] -- Detecting CXX compiler ABI info
+[1.221s] -- Detecting CXX compiler ABI info - done
+[1.248s] -- Detecting CXX compile features
+[1.249s] -- Detecting CXX compile features - done
+[1.254s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.296s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.296s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.699s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.767s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.955s] -- Configuring done
+[1.958s] -- Generating done
+[1.959s] -- Build files have been written to: /home/robotflow/dual_flexiv/build/urdf_tutorial
+[1.964s] Invoked command in '/home/robotflow/dual_flexiv/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robotflow/dual_flexiv/install/flexiv_test_nodes:/opt/ros/foxy /usr/bin/cmake /home/robotflow/dual_flexiv/src/urdf_tutorial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robotflow/dual_flexiv/install/urdf_tutorial
+[1.968s] Invoking command in '/home/robotflow/dual_flexiv/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robotflow/dual_flexiv/install/flexiv_test_nodes:/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/urdf_tutorial -- -j8 -l8
+[2.018s] Invoked command in '/home/robotflow/dual_flexiv/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robotflow/dual_flexiv/install/flexiv_test_nodes:/opt/ros/foxy /usr/bin/cmake --build /home/robotflow/dual_flexiv/build/urdf_tutorial -- -j8 -l8
+[2.052s] Invoking command in '/home/robotflow/dual_flexiv/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robotflow/dual_flexiv/install/flexiv_test_nodes:/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/urdf_tutorial
+[2.064s] -- Install configuration: ""
+[2.065s] -- Execute custom install script
+[2.066s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/images/flexible.png
+[2.078s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/images/materials.png
+[2.090s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/images/multipleshapes.png
+[2.101s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/images/myfirst.png
+[2.112s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/images/origins.png
+[2.125s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/images/visual.png
+[2.137s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+[2.150s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger.dae
+[2.166s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_color.png
+[2.180s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip.dae
+[2.194s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip_color.png
+[2.206s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/rviz/urdf.rviz
+[2.217s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+[2.228s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+[2.246s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+[2.259s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+[2.271s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+[2.285s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+[2.300s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+[2.310s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+[2.322s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[2.339s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[2.353s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[2.367s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[2.381s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[2.394s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[2.406s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[2.419s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[2.431s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[2.447s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[2.461s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[2.473s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[2.484s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[2.496s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[2.507s] -- Symlinking: /home/robotflow/dual_flexiv/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[2.524s] Invoked command in '/home/robotflow/dual_flexiv/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robotflow/dual_flexiv/install/flexiv_test_nodes:/opt/ros/foxy /usr/bin/cmake --install /home/robotflow/dual_flexiv/build/urdf_tutorial

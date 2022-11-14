@@ -88,7 +88,11 @@
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//meshes/rizon4s/visual/link6r.obj
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//meshes/rizon4s/visual/link7.mtl
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//meshes/rizon4s/visual/link7.obj
+/home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//rviz/dual_urdf.rviz
+/home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//rviz/urdf.rviz
+/home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//rviz/urdfc.rviz
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//rviz/view_rizon.rviz
+/home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//urdf/dual_rizon.urdf.xacro
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//urdf/flexiv_arm_materials.xacro
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//urdf/rizon.ros2_control.xacro
 /home/robotflow/dual_flexiv/install/flexiv_description/share/flexiv_description//urdf/rizon.urdf.xacro

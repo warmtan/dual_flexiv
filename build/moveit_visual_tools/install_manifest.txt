@@ -1,0 +1,3 @@
+/home/robotflow/dual_flexiv/install/moveit_visual_tools/lib/libmoveit_visual_tools.so
+/home/robotflow/dual_flexiv/install/moveit_visual_tools/share/moveit_visual_tools/cmake/export_moveit_visual_toolsExport.cmake
+/home/robotflow/dual_flexiv/install/moveit_visual_tools/share/moveit_visual_tools/cmake/export_moveit_visual_toolsExport-release.cmake

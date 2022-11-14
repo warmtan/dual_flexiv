@@ -5,6 +5,7 @@
 /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/srdf/rizon.srdf.xacro
 /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/srdf/rizon_macro.srdf.xacro
 /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/rviz/moveit.rviz
+/home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/rviz/urdfr.rviz
 /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/ament_index/resource_index/package_run_dependencies/flexiv_moveit_config
 /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/ament_index/resource_index/parent_prefix_path/flexiv_moveit_config
 /home/robotflow/dual_flexiv/install/flexiv_moveit_config/share/flexiv_moveit_config/environment/ament_prefix_path.sh

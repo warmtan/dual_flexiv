@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/robotflow/dual_flexiv/build/moveit2_tutorials/doc/motion_planning_api/motion_planning_api_tutorial" "TARGETS" "motion_planning_api_tutorial" "DESTINATION" "lib/moveit2_tutorials")

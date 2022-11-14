@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/robotflow/dual_flexiv/build/moveit2_tutorials/doc/realtime_servo/servo_keyboard_input" "/home/robotflow/dual_flexiv/build/moveit2_tutorials/doc/realtime_servo/servo_cpp_interface_demo" "TARGETS" "servo_keyboard_input" "servo_cpp_interface_demo" "DESTINATION" "lib/moveit2_tutorials")
